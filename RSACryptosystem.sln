@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA1710900", "RSA1710900.csproj", "{DBAD7DBA-A3F0-43A9-B53E-FB7E892CFC59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSACryptosystem", "RSACryptosystem.csproj", "{DBAD7DBA-A3F0-43A9-B53E-FB7E892CFC59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
